@@ -48,7 +48,7 @@ async def _(event):
         location = str(e)
     caption = """Extracted Userdata From Anubis' DATABASE
 ID: <code>{}</code>
-Rendi's Name: <a href='tg://user?id={}'>{}</a>
+User's Name: <a href='tg://user?id={}'>{}</a>
 Bio: {}
 DC ID: {}
 Number of PPs: {}
